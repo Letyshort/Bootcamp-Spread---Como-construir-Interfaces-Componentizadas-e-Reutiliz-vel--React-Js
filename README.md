@@ -1,4 +1,4 @@
-#h2 Desafio 3 - BootCamp Spread Fullstack DIO #h2
+Desafio 3 - BootCamp Spread Fullstack DIO
 
 Esse foi um desafio de construir Interfaces Componentizadas e que pudessem ser Reutilizadas em outros projetos! Com React JS, utilizando também a biblioteca Axios e Styled-Components.
 
